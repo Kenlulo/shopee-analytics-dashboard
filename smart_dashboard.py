@@ -359,7 +359,7 @@ with st.sidebar:
 
 # Disclaimer
 st.warning(f"⚖️ {t('DỰ ÁN CÁ NHÂN: Công cụ phân tích doanh thu Shopee mã nguồn mở. Các phân tích chỉ mang tính chất tham khảo.')}")
-st.markdown(f"<p style='font-size: 15px; margin-top: -5px; padding-left: 15px;'>👉 {t('Nếu bạn muốn xem thêm dự án khác hãy')} <a href='https://portfolio-gilt-sigma-43.vercel.app' target='_blank' style='text-decoration: underline; color: #1f77b4;'>{t('nhấp vào đây')}</a></p>", unsafe_allow_html=True)
+st.markdown(f"<p style='font-size: 15px; margin-top: -5px; padding-left: 15px;'>👉 {t('Nếu bạn muốn xem thêm dự án khác hãy')} <a href='https://portfolio-394g.vercel.app' target='_blank' style='text-decoration: underline; color: #1f77b4;'>{t('nhấp vào đây')}</a></p>", unsafe_allow_html=True)
 
 
 # ═══════════════════════════════════════════════════════════════
@@ -393,7 +393,7 @@ if uploaded_file is None:
             )
             st.markdown(
                 f"<p style='text-align:center; font-size:14px; margin-top: 8px;'>"
-                f"👨‍💻 <b>{t('Phát triển bởi Hồ Anh Khoa')}</b> <br> <a href='https://portfolio-gilt-sigma-43.vercel.app' target='_blank' style='color:#16A085; text-decoration:none; font-weight:700;'>👉 {t('Nhấp vào đây để xem thêm các dự án Portfolio khác')}</a>"
+                f"👨‍💻 <b>{t('Phát triển bởi Hồ Anh Khoa')}</b> <br> <a href='https://portfolio-394g.vercel.app' target='_blank' style='color:#16A085; text-decoration:none; font-weight:700;'>👉 {t('Nhấp vào đây để xem thêm các dự án Portfolio khác')}</a>"
                 f"</p>", 
                 unsafe_allow_html=True
             )
